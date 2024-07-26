@@ -1,0 +1,36 @@
+/* contact.css */
+.contact {
+    background-color: #fff;
+    padding: 60px 0;
+    color: #333;
+  }
+  
+  .contact .container {
+    text-align: center;
+  }
+  
+  .contact-content h2 {
+    margin-bottom: 20px;
+  }
+  
+  .contact-content p {
+    margin-bottom: 40px;
+  }
+  
+  .contact-form {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .contact-form input, .contact-form textarea {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .contact-form button {
+    width: 100%;
+  }
+  
